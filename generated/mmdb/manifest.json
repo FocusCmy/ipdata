@@ -1,0 +1,44 @@
+{
+  "version": "offline-mmdb-2026-04-28",
+  "generatedAt": "2026-04-28T09:04:08.761Z",
+  "datasets": [
+    {
+      "id": "dbip-city-lite",
+      "source": "DB-IP City Lite",
+      "scope": "city",
+      "format": "mmdb",
+      "license": "CC BY 4.0",
+      "attribution": "IP Geolocation by DB-IP",
+      "sourceUrl": "https://db-ip.com/db/download/ip-to-city-lite",
+      "note": "DB-IP Lite web apps that display or use lookup results should link back to DB-IP.com.",
+      "files": [
+        {
+          "file": "dbip-city-lite.mmdb.gz",
+          "path": "/generated/mmdb/dbip-city-lite.mmdb.gz",
+          "compression": "gzip",
+          "sizeBytes": 62284112,
+          "updatedAt": "2026-04-28T08:30:21.167Z"
+        }
+      ]
+    },
+    {
+      "id": "geolite2-city",
+      "source": "GeoLite2 City",
+      "scope": "city",
+      "format": "mmdb",
+      "license": "GeoLite2 EULA",
+      "attribution": "This product includes GeoLite2 data created by MaxMind.",
+      "sourceUrl": "https://dev.maxmind.com/geoip/geolite2-free-geolocation-data",
+      "note": "GeoLite2 redistribution and display require MaxMind attribution and fresh data handling.",
+      "files": [
+        {
+          "file": "geolite2-city.mmdb.gz",
+          "path": "/generated/mmdb/geolite2-city.mmdb.gz",
+          "compression": "gzip",
+          "sizeBytes": 31643653,
+          "updatedAt": "2026-04-28T08:31:34.864Z"
+        }
+      ]
+    }
+  ]
+}

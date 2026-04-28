@@ -1,0 +1,36 @@
+{
+  "version": "offline-asn-2026-04-28",
+  "generatedAt": "2026-04-28T14:48:32.398Z",
+  "datasets": [
+    {
+      "source": "IPtoASN",
+      "file": "iptoasn-combined.tsv",
+      "license": "PDDL-1.0",
+      "attribution": "Contains IPtoASN data released under the Open Data Commons Public Domain Dedication and License (PDDL).",
+      "recordCount": {
+        "v4": 521171,
+        "v6": 176017
+      }
+    },
+    {
+      "source": "DB-IP ASN Lite",
+      "file": "dbip-asn-lite.csv",
+      "license": "CC BY 4.0",
+      "attribution": "Contains DB-IP.com data available under Creative Commons Attribution 4.0 International (CC BY 4.0). © DB-IP.com.",
+      "recordCount": {
+        "v4": 394481,
+        "v6": 72359
+      }
+    },
+    {
+      "source": "IPinfo",
+      "file": "ipinfo_lite.json.gz",
+      "license": "CC BY 4.0",
+      "attribution": "Contains IPinfo data available under Creative Commons Attribution 4.0 International (CC BY 4.0). © IPinfo.",
+      "recordCount": {
+        "v4": 1069643,
+        "v6": 2302894
+      }
+    }
+  ]
+}
