@@ -1,0 +1,28 @@
+{
+  "version": "proxyblocks-2026-04-29",
+  "generatedAt": "2026-04-29T08:59:26.684Z",
+  "source": "OpenProxyDB",
+  "license": "CC0 1.0",
+  "attribution": "Contains data from OpenProxyDB (https://openproxydb.com) released under CC0 1.0 Universal.",
+  "recordCount": {
+    "v4": 55492,
+    "v6": 9043
+  },
+  "tagCounts": {
+    "proxy": 55934,
+    "vpn": 4407,
+    "tor": 137,
+    "webhost": 29729
+  },
+  "parseErrors": 105,
+  "files": [
+    {
+      "path": "/generated/proxyblocks/v4.json.gz",
+      "sizeBytes": 753781
+    },
+    {
+      "path": "/generated/proxyblocks/v6.json.gz",
+      "sizeBytes": 99530
+    }
+  ]
+}
