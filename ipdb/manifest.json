@@ -1,0 +1,16 @@
+{
+  "version": "2026.05.15",
+  "generatedAt": "2026-05-15T12:00:00Z",
+  "databases": {
+    "iplocation_core": {
+      "sha256": "6A419E47AD1C5C9D57DEF2C6A077758BACC73BC98AAAE32B9D7DD793A0AE9BD5E",
+      "sizeBytes": 129032224,
+      "url": "ipdb/iplocation_core.ipdb"
+    },
+    "proxy_core": {
+      "sha256": "840ECA6BD9F4099BC2DAECEB1AC6560CECE9B5E75BE02094BBE76F80349FD9F6",
+      "sizeBytes": 61640736,
+      "url": "ipdb/proxy_core.ipdb"
+    }
+  }
+}
